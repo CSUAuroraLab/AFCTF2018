@@ -1,0 +1,4 @@
+python Encrypt.py key.txt Plain.txt cipher.txt
+python Encrypt.py key.txt flag.txt flag_encode.txt
+rm flag.txt
+rm key.txt
